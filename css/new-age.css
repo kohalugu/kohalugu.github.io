@@ -169,8 +169,6 @@ section.download {
       font-size: 70px; } }
 
 
-section.features .section-heading {
-  margin-bottom: 100px; }
   section.features .section-heading h2 {
     margin-top: 0; }
   section.features .section-heading p {
@@ -181,8 +179,6 @@ section.features .feature-item {
   max-width: 325px;
   margin: 0 auto; }
 
-section.features .device-container {
-  margin-bottom: 100px; }
   @media (min-width: 992px) {
     section.features .device-container {
       margin-bottom: 0; } }
