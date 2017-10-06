@@ -44,7 +44,7 @@ p {
   margin-bottom: 20px; }
 
 section {
-  padding: 100px 0; }
+  padding: 100px 0 100px; }
   section h2 {
     font-size: 50px; }
 
@@ -149,7 +149,7 @@ header.masthead {
 
 section.download {
   position: relative;
-  padding: 150px 0; }
+  }
   section.download h2 {
     font-size: 50px;
     margin-top: 0; }
@@ -188,8 +188,6 @@ section.features .device-container {
       margin-bottom: 0; } }
 
 section.features .feature-item {
-  padding-top: 50px;
-  padding-bottom: 50px;
   text-align: center; }
   section.features .feature-item h3 {
     font-size: 30px; }
@@ -209,7 +207,6 @@ section.cta {
   background: -moz-linear-gradient(#3b5998, lightcyan); /* For Firefox 3.6 to 15 */
   background: linear-gradient(#3b5998, lightcyan); /* Standard syntax */
   position: relative;
-  padding: 250px 0;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -227,19 +224,6 @@ section.cta {
   section.cta img {
     width: 100%;
     height: 100%;
-  }
-
-  section.cta .supporters {
-    background-color: #fff;
-  }
-
-  section.cta .supporters li {
-    display:inline-block;
-    vertical-align: top;
-    width: 30%;
-    float: left;
-    margin-right: 3%;
-    margin-bottom: 3%;
   }
 
   section.cta .cta-content {
@@ -261,6 +245,14 @@ section.cta {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5); }
+
+section.supporters {
+  background-color: #fff;
+}
+
+section.supporters img {
+  width: 100%;
+}
 
 section.contact {
   text-align: center; }
