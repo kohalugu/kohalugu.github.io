@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01a339e9-6c13-4ae2-929f-d21e22058bbf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/virve.jpg" afterPath="$PROJECT_DIR$/img/virve.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/new-age.css" afterPath="$PROJECT_DIR$/css/new-age.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -64,21 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new-age.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="new-age.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/new-age.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="229" column="3" lean-forward="false" selection-start-line="229" selection-start-column="3" selection-end-line="229" selection-end-column="3" />
+            <state relative-caret-position="275">
+              <caret line="231" column="15" lean-forward="true" selection-start-line="231" selection-start-column="15" selection-end-line="231" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="247" column="32" lean-forward="false" selection-start-line="247" selection-start-column="32" selection-end-line="247" selection-end-column="32" />
+            <state relative-caret-position="572">
+              <caret line="256" column="38" lean-forward="false" selection-start-line="256" selection-start-column="38" selection-end-line="256" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -130,8 +130,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/device-mockups/device-mockups.css" />
-        <option value="$PROJECT_DIR$/css/new-age.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/new-age.css" />
       </list>
     </option>
   </component>
@@ -299,12 +299,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506883153686</updated>
       <workItem from="1506883155253" duration="2153000" />
-      <workItem from="1506885540967" duration="11743000" />
+      <workItem from="1506885540967" duration="15490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13896000" />
+    <option name="totallyTimeSpent" value="17643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1030" extended-state="0" />
@@ -485,18 +485,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/new-age.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="229" column="3" lean-forward="false" selection-start-line="229" selection-start-column="3" selection-end-line="229" selection-end-column="3" />
+        <state relative-caret-position="572">
+          <caret line="256" column="38" lean-forward="false" selection-start-line="256" selection-start-column="38" selection-end-line="256" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/new-age.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="247" column="32" lean-forward="false" selection-start-line="247" selection-start-column="32" selection-end-line="247" selection-end-column="32" />
+        <state relative-caret-position="275">
+          <caret line="231" column="15" lean-forward="true" selection-start-line="231" selection-start-column="15" selection-end-line="231" selection-end-column="25" />
           <folding />
         </state>
       </provider>
