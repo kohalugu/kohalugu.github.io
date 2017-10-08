@@ -244,6 +244,7 @@ section.cta {
 
 section.supporters {
   background-color: #fff;
+  overflow-x: hidden;
 }
 
 section.supporters img {
