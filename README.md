@@ -4,13 +4,13 @@
 # Owner
 ## NGO Kohalugu
 ### MTÜ Kohalugu
+#### E-mail: kohalugu@gmail.com
 
-# Creator
+# Creator and copyright owner
 ### Varje Kivila
-Copyright: Varje Kivila
-Github: varje
-E-mail: varjekivila@gmail.com
-Phone: +372 59 03 96 97
+#### Github: varje
+#### E-mail: varjekivila@gmail.com
+#### Phone: +372 59 03 96 97
 
 # Gratitude
 ## Bootstrap Template
