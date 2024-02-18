@@ -6,11 +6,11 @@
 ### MTÜ Kohalugu
 
 # Creator
-## Homepage: varje.github.io
-### Varje Kivila 
-#### Former names:
-##### Varje Voitk
-##### Varje Kass
+### Varje Kivila
+Copyright: Varje Kivila
+Github: varje
+E-mail: varjekivila@gmail.com
+Phone: +372 59 03 96 97
 
 # Gratitude
 ## Bootstrap Template
@@ -29,9 +29,6 @@
 ## MTÜ Kohalugu
 ## OÜ Vaimuaare
 
-Copyright: Varje Kivila
-Github: varje
-E-mail: varjekivila@gmail.com
-Phone: +372 59 03 96 97
+
 
 Enjoy!
